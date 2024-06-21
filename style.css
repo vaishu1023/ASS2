@@ -1,0 +1,169 @@
+body{
+margin: 0;
+text-align: center;
+}
+h1{
+margin-top: 0;
+font-family: 'Sacramento', cursive;
+}
+h2{
+	color:#66BFBF;
+	font-family:'Montserrat',sans-serif;
+	font-size:2.5rem;
+	font-weight:normal;
+	padding-bottom:10px;
+	
+}
+h3{
+	color:#11999E;
+	font-family:'Montserrat',sans-serif;
+}
+hr{
+	border:dotted #EAF6F6 6px;
+	border-bottom:none;
+	width:4%;
+	margin:100px auto;
+}
+a{
+	color:#11999E;
+	font-family:'Montserrat',sans-serif;
+	margin:10px 20px;
+}
+a:hover{
+	color:#EAF6F6;
+}
+.intro{
+	margin:auto;
+	width:30%;
+}	
+
+div{
+background-color: #E4F9F5;
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 50px;
+}
+.bottom-cloud {
+position: absolute;
+left: 300px;
+bottom: 300px;
+} 
+p{
+	line-height:2;
+}
+.skill-row{
+	width:50%;
+	margin:100px auto;
+	text-align:left;
+}
+.chilli-img{
+	width:25%;
+	float:right;
+	margin-left:30px;
+}
+.code-img{
+	width:25%;
+	float:right;
+	margin-left:30px;
+}	
+.btn{
+	background:#11cdd4;
+	text-decoration:none;
+	border-radius:8px;
+	font-family:'Montserrat',sans-serif;
+	color:#ffffff;
+	font-size:20px;
+	padding:10px 20px 10px 20px;
+}
+.btn:hover{
+	background:#30e3cb;
+}
+.pro{
+	text-decoration:uderline;
+}
+
+.contact-message{
+	width:40px;
+	margin:40px auto 60px;
+}
+.copyright{
+	color:#EAF6F6;
+	font-size:0.75rem;
+	padding:20px 0;
+}
+}
+.top-container{
+	background-color:#E4F9F5;
+	position:relative;
+	padding-top:100px;
+}
+.middle-container{
+	margin:100px 0;
+}
+.bottom-container{
+	margin
+	
+.myphoto{
+	width:150px;
+	height:150px;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
