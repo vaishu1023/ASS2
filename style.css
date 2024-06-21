@@ -19,10 +19,10 @@ h3{
 	font-family:'Montserrat',sans-serif;
 }
 hr{
-	border:dotted ##000000 6px;
+	border:dotted #000000 6px;
 	border-bottom:none;
 	width:4%;
-	margin:80px auto;
+	margin:50px auto;
 }
 a{
 	color:#11999E;
@@ -60,7 +60,7 @@ p{
 }
 .chilli-img{
 	width:25%;
-	float:right;
+	float:left;
 	margin-left:30px;
 }
 .code-img{
@@ -106,8 +106,8 @@ p{
 	margin
 	
 .myphoto{
-	width:150px;
-	height:150px;
+	width:50px;
+	height:50px;
 }	
 	
 	
